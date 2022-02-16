@@ -1,2 +1,4 @@
 # the horseless newspaper 
-## angular-elements
+## custom tags
+
+this repository contains angular code to produce a family of html tags for use with the horseless newspaper
